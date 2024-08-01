@@ -1,2 +1,2 @@
 # FCP-IEHM
-Frequency-Constrained Planning for Integrated Electricity-Heat Microgrids Considering Synthetic Inertia Resources
+A Frequency-Secured Planning Method for Integrated Electricity-Heat Microgrids with Virtual Inertia Suppliers
